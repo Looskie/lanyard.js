@@ -41,3 +41,4 @@ lanyard.on("PRESENCE_UPDATE", (presence) => {
 * [Rob](https://github.com/robjmorrissey) - Creator of this library
 * [Looskie](https://github.com/looskie) - Fixed Ali's name
 * [Oli](https://github.com/slay) - Here is Oli :)
+* [Robert](https://github.com/robertt) - Robert for approving PR #1
