@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "outDir": "build",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "types": ["node"],
+    "experimentalDecorators": true,
+    "declaration": true
+  }
+}
