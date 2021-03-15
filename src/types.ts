@@ -1,4 +1,4 @@
-// ty allistair - https://github.com/alii/use-lanyard/blob/main/src/types.ts
+// ty alistair - https://github.com/alii/use-lanyard/blob/main/src/types.ts
 
 export interface Data {
   spotify: Spotify | null;
