@@ -39,3 +39,4 @@ lanyard.on("PRESENCE_UPDATE", (presence) => {
 * [Phineas](https://github.com/phineas) - Author of Lanyard
 * [Alistair](https://github.com/alii) - Types for this lib
 * [Rob](https://github.com/robjmorrissey) - Creator of this library
+* [Looskie](https://github.com/looskie) - Fixed Ali's name
